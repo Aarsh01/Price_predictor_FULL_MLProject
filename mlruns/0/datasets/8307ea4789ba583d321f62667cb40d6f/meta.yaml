@@ -1,0 +1,35 @@
+digest: 3f90dfbd
+name: dataset
+profile: '{"num_rows": 412, "num_elements": 15656}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Order", "required": true},
+  {"type": "double", "name": "PID", "required": true}, {"type": "double", "name":
+  "MS SubClass", "required": true}, {"type": "double", "name": "Lot Frontage", "required":
+  true}, {"type": "double", "name": "Lot Area", "required": true}, {"type": "double",
+  "name": "Overall Qual", "required": true}, {"type": "double", "name": "Overall Cond",
+  "required": true}, {"type": "double", "name": "Year Built", "required": true}, {"type":
+  "double", "name": "Year Remod/Add", "required": true}, {"type": "double", "name":
+  "Mas Vnr Area", "required": true}, {"type": "double", "name": "BsmtFin SF 1", "required":
+  true}, {"type": "double", "name": "BsmtFin SF 2", "required": true}, {"type": "double",
+  "name": "Bsmt Unf SF", "required": true}, {"type": "double", "name": "Total Bsmt
+  SF", "required": true}, {"type": "double", "name": "1st Flr SF", "required": true},
+  {"type": "double", "name": "2nd Flr SF", "required": true}, {"type": "double", "name":
+  "Low Qual Fin SF", "required": true}, {"type": "double", "name": "Gr Liv Area",
+  "required": true}, {"type": "double", "name": "Bsmt Full Bath", "required": true},
+  {"type": "double", "name": "Bsmt Half Bath", "required": true}, {"type": "double",
+  "name": "Full Bath", "required": true}, {"type": "double", "name": "Half Bath",
+  "required": true}, {"type": "double", "name": "Bedroom AbvGr", "required": true},
+  {"type": "double", "name": "Kitchen AbvGr", "required": true}, {"type": "double",
+  "name": "TotRms AbvGrd", "required": true}, {"type": "double", "name": "Fireplaces",
+  "required": true}, {"type": "double", "name": "Garage Yr Blt", "required": true},
+  {"type": "double", "name": "Garage Cars", "required": true}, {"type": "double",
+  "name": "Garage Area", "required": true}, {"type": "double", "name": "Wood Deck
+  SF", "required": true}, {"type": "double", "name": "Open Porch SF", "required":
+  true}, {"type": "double", "name": "Enclosed Porch", "required": true}, {"type":
+  "double", "name": "3Ssn Porch", "required": true}, {"type": "double", "name": "Screen
+  Porch", "required": true}, {"type": "double", "name": "Pool Area", "required": true},
+  {"type": "double", "name": "Misc Val", "required": true}, {"type": "double", "name":
+  "Mo Sold", "required": true}, {"type": "double", "name": "Yr Sold", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "aarsh", "mlflow.source.name": "run_pipeline.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

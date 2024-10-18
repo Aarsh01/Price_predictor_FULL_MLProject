@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarsh/Downloads/mlops/mlruns/0/927b49419ab6474b9160b32d177d7428/artifacts
+end_time: 1729263041648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927b49419ab6474b9160b32d177d7428
+run_name: bouncy-auk-740
+run_uuid: 927b49419ab6474b9160b32d177d7428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729263041365
+status: 3
+tags: []
+user_id: aarsh

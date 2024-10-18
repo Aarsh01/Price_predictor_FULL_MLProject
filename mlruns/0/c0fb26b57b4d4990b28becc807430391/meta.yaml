@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarsh/Downloads/mlops/mlruns/0/c0fb26b57b4d4990b28becc807430391/artifacts
+end_time: 1729262831684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0fb26b57b4d4990b28becc807430391
+run_name: stylish-turtle-475
+run_uuid: c0fb26b57b4d4990b28becc807430391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729262831164
+status: 3
+tags: []
+user_id: aarsh
